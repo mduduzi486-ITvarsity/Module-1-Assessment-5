@@ -1,0 +1,16 @@
+h1{
+  color:blue;
+  background-color:red;
+}
+.gallery img{
+    width:100%;
+}
+a{
+  text-decoration: none;  
+}
+
+body{
+    background-color: blue;
+}
+
+
